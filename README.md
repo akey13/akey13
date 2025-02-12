@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @akey13, Andy.
-- 👀 I’m interested in learning different kinds of programming language, especially python, C++ and C. Please help, thanks a lot!
-- 🌱 I’m currently learning python for Machine Learning image detection.
+- 👋 Hi, Andy here
 
 <!---
 akey13/akey13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
